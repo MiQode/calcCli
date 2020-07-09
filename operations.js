@@ -10,7 +10,7 @@ const validateNumbers = (x, y) => {
   if (isNaN(x) || isNaN(y)) {
     return false;
   }
-  return true;
+  return tru;
 };
 
 module.exports = {
